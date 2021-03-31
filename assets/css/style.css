@@ -2264,3 +2264,49 @@ section {
     font-size: 13px;
     color: #fff;
 }
+.c-pointer{
+    cursor: pointer;
+}
+/* buttons */
+.btn-main-red{
+    background-color: #e13451;
+    color: #fff ;
+    border: 2px solid #e13451;
+    border-radius: 50px;
+    line-height: 1;
+    padding: 10px 20px;
+}
+.btn-main-red:hover{
+    background-color: transparent;
+    color: #e13451;
+    
+}
+.btn-pink{
+    background-color: #f33355;
+    color: #fff ;
+    border: 2px solid #f33355;
+    border-radius: 50px;
+    line-height: 1;
+    padding: 10px 20px;
+}
+.btn-main-pink{
+    background-color: #f33355;
+    color: #fff ;
+    border: 2px solid #f33355;
+    border-radius: 50px;
+    line-height: 1;
+    padding: 10px 20px;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+.btn-main-pink:hover{
+    background-color: transparent;
+    color: #393f58;
+    border: 2px solid #393f58;
+}
+/* buttons */
+/* font color */
+.text-blue{
+    color: #3388a6;
+}
+/* font color */
