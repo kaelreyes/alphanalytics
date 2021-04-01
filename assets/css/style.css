@@ -2304,9 +2304,40 @@ section {
     color: #393f58;
     border: 2px solid #393f58;
 }
+.btn-pink-black{
+    background-color: #f33355;
+    color: #fff ;
+    border-radius: 50px;
+    line-height: 1;
+    border: none;
+    padding: 14px 12px;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+.btn-pink-black:hover{
+    background: #fff;
+    color: #11131c;
+}
 /* buttons */
 /* font color */
 .text-blue{
     color: #3388a6;
 }
 /* font color */
+.white-bg{
+    background: #fff;
+    border-radius: 50px;
+    padding: 10px 6px;
+}
+.invisible-input{
+    background: transparent;
+    box-shadow: none !important;
+    outline: none;
+    border: none;
+    padding: 0px 10px;
+    font-size: 14px;
+}
+.invisible-input::placeholder {
+    color: #11131c;
+    font-weight: 600;
+  }
