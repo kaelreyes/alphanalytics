@@ -2318,10 +2318,31 @@ section {
     background: #fff;
     color: #11131c;
 }
+.btn-white-red{
+    background-color: #fff;
+    color: #f33355 ;
+    border: #f33355 2px solid;
+    border-radius: 50px;
+    line-height: 1;
+    border: none;
+    padding: 14px 12px;
+}.btn-white-red:hover{
+    background-color: #f33355;
+    color: #fff ;
+    border: #fff 2px solid;
+}
 /* buttons */
 /* font color */
 .text-blue{
     color: #3388a6;
+}
+.text-gray{
+    font-weight: 600;
+    font-size: 14px;
+    color: #bbbcbd;
+}
+.text-gray:hover{
+    color: #f33355;
 }
 /* font color */
 .white-bg{
@@ -2340,4 +2361,4 @@ section {
 .invisible-input::placeholder {
     color: #11131c;
     font-weight: 600;
-  }
+}
