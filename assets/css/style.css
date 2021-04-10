@@ -2376,3 +2376,43 @@ section {
     background-position: center;
     background-size: cover;
 }
+/* fonts */
+@font-face {
+	font-family: 'Barlow';
+	src:url('../fonts/Barlow/Barlow-Regular.ttf');
+}
+.barlow{
+	font-family: Barlow, Roboto;
+}
+@font-face {
+	font-family: 'Barlow-Bold';
+	src:url('../fonts/Barlow/Barlow-Bold.ttf');
+}
+.barlow-bold{
+	font-family: Barlow-Bold, Roboto;
+}
+@font-face {
+	font-family: 'Barlow-Mediumn';
+	src:url('../fonts/Barlow/Barlow-Medium.ttf');
+}
+.barlow-medium{
+	font-family: Barlow-Medium, Roboto;
+}
+@font-face {
+	font-family: 'Barlow-Condensed';
+	src:url('../fonts/Barlow/BarlowCondensed-Regular.ttf');
+}
+.barlow-condensed{
+	font-family: Barlow-Condensed ;
+}
+@font-face {
+	font-family: 'Barlow-Condensed-Bold';
+	src:url('../fonts/Barlow/BarlowCondensed-Bold.ttf');
+}
+.barlow-condensed-bold{
+	font-family: Barlow-Condensed-Bold;
+}
+.text-darkblue{
+	color: #0B133D;
+}
+/* fonts */
