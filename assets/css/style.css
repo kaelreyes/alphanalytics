@@ -2345,6 +2345,12 @@ section {
     color: #f33355;
 }
 /* font color */
+.white-bg-n{
+    background: #fff;
+    border-radius: 50px;
+    padding: 10px 6px;
+    border: 1px #dbdbdb solid;
+}
 .white-bg{
     background: #fff;
     border-radius: 50px;
@@ -2361,4 +2367,12 @@ section {
 .invisible-input::placeholder {
     color: #11131c;
     font-weight: 600;
+}
+.header-bg{
+    background: url("../img/header-bg.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
 }
