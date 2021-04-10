@@ -2304,9 +2304,75 @@ section {
     color: #393f58;
     border: 2px solid #393f58;
 }
+.btn-pink-black{
+    background-color: #f33355;
+    color: #fff ;
+    border-radius: 50px;
+    line-height: 1;
+    border: none;
+    padding: 14px 12px;
+    -webkit-animation-delay: 0.8s;
+    animation-delay: 0.8s;
+}
+.btn-pink-black:hover{
+    background: #fff;
+    color: #11131c;
+}
+.btn-white-red{
+    background-color: #fff;
+    color: #f33355 ;
+    border: #f33355 2px solid;
+    border-radius: 50px;
+    line-height: 1;
+    border: none;
+    padding: 14px 12px;
+}.btn-white-red:hover{
+    background-color: #f33355;
+    color: #fff ;
+    border: #fff 2px solid;
+}
 /* buttons */
 /* font color */
 .text-blue{
     color: #3388a6;
 }
+.text-gray{
+    font-weight: 600;
+    font-size: 14px;
+    color: #bbbcbd;
+}
+.text-gray:hover{
+    color: #f33355;
+}
 /* font color */
+.white-bg-n{
+    background: #fff;
+    border-radius: 50px;
+    padding: 10px 6px;
+    border: 1px #dbdbdb solid;
+}
+.white-bg{
+    background: #fff;
+    border-radius: 50px;
+    padding: 10px 6px;
+}
+.invisible-input{
+    background: transparent;
+    box-shadow: none !important;
+    outline: none;
+    border: none;
+    padding: 0px 10px;
+    font-size: 14px;
+}
+.invisible-input::placeholder {
+    color: #11131c;
+    font-weight: 600;
+}
+.header-bg{
+    background: url("../img/header-bg.jpg");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    background-position: center;
+    background-size: cover;
+}
