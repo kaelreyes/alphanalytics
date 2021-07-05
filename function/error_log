@@ -1,0 +1,6 @@
+[03-Jun-2021 12:38:18 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/tfrenel/beta.alphanalytix.com/function/contact.php on line 2
+[03-Jun-2021 12:41:29 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'PHP_Email_Form' not found in /home3/tfrenel/beta.alphanalytix.com/function/contact.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/tfrenel/beta.alphanalytix.com/function/contact.php on line 19
+[03-Jun-2021 13:06:55 America/Chicago] PHP Parse error:  syntax error, unexpected '?', expecting end of file in /home3/tfrenel/beta.alphanalytix.com/function/contact.php on line 43

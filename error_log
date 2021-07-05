@@ -1,0 +1,13 @@
+[10-Apr-2021 20:34:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home3/tfrenel/beta.alphanalytix.com/index.php:1) in /home3/tfrenel/beta.alphanalytix.com/config.php on line 3
+[10-Apr-2021 20:34:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/tfrenel/beta.alphanalytix.com/index.php:1) in /home3/tfrenel/beta.alphanalytix.com/config.php on line 3
+[28-May-2021 16:25:22 America/Chicago] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home3/tfrenel/beta.alphanalytix.com/inc/inc.footer.php on line 32
+[28-May-2021 17:33:09 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/tfrenel/beta.alphanalytix.com/inc/inc.about-us.php on line 111
+[28-May-2021 17:34:49 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/tfrenel/beta.alphanalytix.com/inc/inc.about-us.php on line 111
+[28-May-2021 17:35:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/tfrenel/beta.alphanalytix.com/inc/inc.about-us.php on line 111
+[28-May-2021 17:35:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/tfrenel/beta.alphanalytix.com/inc/inc.about-us.php on line 111
+[17-Jun-2021 11:41:13 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/tfrenel/beta.alphanalytix.com/inc/inc.our-clients.php on line 113
+[17-Jun-2021 11:42:21 America/Chicago] PHP Parse error:  syntax error, unexpected '$service_array' (T_VARIABLE), expecting ',' or ';' in /home3/tfrenel/beta.alphanalytix.com/inc/inc.our-clients.php on line 98
+[17-Jun-2021 11:42:43 America/Chicago] PHP Parse error:  syntax error, unexpected '">' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home3/tfrenel/beta.alphanalytix.com/inc/inc.our-clients.php on line 99
+[17-Jun-2021 11:43:00 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/tfrenel/beta.alphanalytix.com/inc/inc.our-clients.php on line 113
+[21-Jun-2021 10:00:11 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/tfrenel/beta.alphanalytix.com/inc/inc.footer.php on line 73
+[03-Jul-2021 03:30:34 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/tfrenel/beta.alphanalytix.com/inc/inc.blog-single.php on line 81

@@ -1,0 +1,6 @@
+<script type="text/javascript">
+	function formatNumber(num) {
+  		return num.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
+	}
+	total_amount=0;
+</script>
